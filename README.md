@@ -4,10 +4,5 @@
 Hello release!
 
 ![logo](https://raw.githubusercontent.com/CodeSandwich/crates-io-release-test/master/test-logo.png)
-Hello my crate
 
-```rust
-fn main() {
-    println!("123");
-}
-```
+
